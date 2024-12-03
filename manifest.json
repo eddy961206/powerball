@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Powerball Number Generator",
-  "version": "1.0",
-  "description": "Generate random Powerball lottery numbers",
+  "version": "1.0.0",
+  "description": "Generate random Powerball lottery numbers for fun.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
